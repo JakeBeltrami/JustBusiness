@@ -1,0 +1,7 @@
+First Stage is "Planning Stage" - Press SPACE to end this Stage
+
+CONTROLS:
+Left Click - Attack
+WASD or Arrow to move
+E to pick up weapons
+G to drop 
